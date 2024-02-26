@@ -8,6 +8,7 @@ Some excerpts from my website
 So, let's play [tt-pingpong](https://github.com/anissatta/tt-pingpong/) :ping_pong: now. 게임을 합시다. 
 
 ### February 26, 2024 
+- ![feb27-1](feb27-1.jpg)
 - **ANYONE can play this game!** 下記は「登記・供託オンライン申請システム」のアカウント作成画面をコピーしたものです。 ご覧になれば分かる通り本システムにアカウントを作成して登記事項証明書の郵送依頼を行うことは誰でも簡単に出来ることなのですね。 またこれは想像ですが、CoEvo株式会社の管轄登記所(東京)へ行けば当日中に登記事項証明書が発行されるかと思います。大阪法務局等の窓口で申請した場合の所要時間についてはよく分かりません。
   - ![form](form.jpg)
 
