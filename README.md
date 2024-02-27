@@ -8,6 +8,7 @@ Some excerpts from my website
 So, let's play [tt-pingpong](https://github.com/anissatta/tt-pingpong/) :ping_pong: now. 게임을 합시다. 
 
 ### February 27, 2024 
+- ![feb28-1](feb28-1.jpg)
 
 #### Ordinary companies vs. COEVO K. K. 
 
