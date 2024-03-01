@@ -7,6 +7,13 @@ Some excerpts from my website
 
 So, let's play [tt-pingpong](https://github.com/anissatta/tt-pingpong/) :ping_pong: now. 게임을 합시다. 
 
+### March 1, 2024 
+- ![mar02-1](mar02-1.jpg)
+- Of course, NTA's *Houjin-bangou Ko-hyo Site* tells you the accurate address of HQ of an organization, as declared in the article 58 of *Act on the Use of Numbers to Identify a Specific Individual in Administrative Procedures (行政手続における特定の個人を識別するための番号の利用等に関する法律):* 
+
+> *The Commissioner of the National Tax Agency must, pursuant to the provisions of Cabinet Orders, make public the trade name or name, the location of the head office or principal office, and the Corporation Number of a person that has been designated a Corporation Number (hereinafter referred to as a "Corporation Number Holder") pursuant to the provisions of paragraphs (1) and (2); provided, however, that with regard to Unincorporated Associations, etc., the Commissioner of the National Tax Agency must in advance obtain the consent of its representative or administrator.* 
+> https://www.japaneselawtranslation.go.jp/en/laws/view/2755
+
 ### February 28, 2024 
 - **PS:** このことは「国税庁法人番号公表サイト」の「よくある質問」にも書かれています。
   - Q. 法人の電話番号、代表者の氏名・住所を知りたいのですが、調べることはできますか。
