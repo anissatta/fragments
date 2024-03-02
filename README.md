@@ -7,6 +7,13 @@ Some excerpts from my website
 
 So, let's play [tt-pingpong](https://github.com/anissatta/tt-pingpong/) :ping_pong: now. 게임을 합시다. 
 
+
+### March 3, 2024 
+- It is written on FAQ section of *NTA's Houjin-bangou Ko-hyo Site* that "it tells only three essential information that are 1) the trade name or name, **2) the location of the head office or principal office,** and 3) the corporation number of a *Corporation Number Holder*" in Japanese: 
+
+> *国税庁法人番号公表サイト（以下「公表サイト」といいます。）では、番号法に基づき、法人番号の指定を受けた者の基本３情報（１　商号又は名称、２　本店又は主たる事務所の所在地、３　法人番号）を公表しております。* 
+> https://www.houjin-bangou.nta.go.jp/shitsumon/shosai.html?selQaId=00098
+
 ### March 1, 2024 
 - ![mar02-1](mar02-1.jpg)
 - Of course, NTA's *Houjin-bangou Ko-hyo Site* tells you the accurate address of HQ of an organization, as declared in the article 58 of *Act on the Use of Numbers to Identify a Specific Individual in Administrative Procedures (行政手続における特定の個人を識別するための番号の利用等に関する法律):* 
