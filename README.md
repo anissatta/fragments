@@ -7,6 +7,8 @@ Some excerpts from my website
 
 So, let's play [tt-pingpong](https://github.com/anissatta/tt-pingpong/) :ping_pong: now. 게임을 합시다. 
 
+### March 7, 2024 
+- ![mar08-1](mar08-1.jpg)
 
 ### March 3, 2024 
 - ![mar04-1](mar04-1.jpg)
