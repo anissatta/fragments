@@ -7,6 +7,9 @@ Some excerpts from my website
 
 So, let's play [tt-pingpong](https://github.com/anissatta/tt-pingpong/) :ping_pong: now. 게임을 합시다. 
 
+### March 17, 2024 
+- ![mar18-1](mar18-1.jpg)
+
 ### March 13, 2024 
 - **UPDATE:** You can order a Certificate of Registered Matters of COEVO K. K. at any branch of Legal Affairs Bureau in Japan.  
 - CoEvoの登記事項証明書をご覧になった方は恐らくそこに記載されていることが彼女ないし彼女に関係のある人々が何かを行った結果であるとお考えになることでしょうが、私は現在ではそれはないと思っています。彼女は韓国人ですし仮に世間で流れている噂の通りヤクザのようなもののお嬢であったとしても、日本でそのようなことが可能だとは思えません。というか彼女はCoEvoのことも、その登記内容のことも何もご存じではないのではないかという気がします。ではこのCoEvoのおかしな登記内容は何なのかというと、これは私の想像ですが、私が彼女と結婚する気をなくすことを狙った者の戦略の一つではないかと思います。まあともあれ騙されたと思って証明書を取得してみて下さい。あまりに変な登記事項証明書なので額に入れて玄関に飾っておけば魔除けになるかも知れません。
