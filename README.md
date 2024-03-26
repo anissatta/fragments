@@ -7,6 +7,11 @@ Some excerpts from my website
 
 So, let's play [tt-pingpong](https://github.com/anissatta/tt-pingpong/) :ping_pong: now. 게임을 합시다. 
 
+### March 26, 2024 
+- 昨日登記供託オンライン申請システムに下記の通り障害が発生していたようですが、直ったとのことですので昨日試みて駄目だった方は再トライしてみて下さい。
+
+https://www.touki-kyoutaku-online.moj.go.jp/information/info_202403.html#HI202403253981
+
 ### March 18, 2024 
 恐らく3月15日頃に私が破滅するという噂が流れたと思うのですが、これについて思うことを書きます。
 
