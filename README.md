@@ -5,6 +5,13 @@ Some excerpts from my website
 > 
 > -- a HRBP at my site 
 
+### June 5, 2024 
+- Dear Amazonians, this morning I wrote a comment to this article on A to Z News (https://news.a2z.com):
+  - *What is OP1? Here's what it's for and why it matters.*
+  - https://news.a2z.com/contents/36273323
+- As you see my comment is like this:
+  - This article has some comments made about a YEAR ago so it’s apparent that it was actually published before that, not ‘7 hours ago’ or something like that it tells you now. I may ‘liked’ it in 2023 but not a several hours ago when I was asleep. / よく見るとこの記事には2023年に書かれたコメントがありますね。記載されている投稿日時は正しくないということです。私がこれに「いいね」したのは去年のことです。@hirosuk Hirosuke (大介) Miyajima, an associate at KIX3 https://fclm-portal.amazon.com/employee/activityDetails/ppa?employeeId=hirosuk&warehouseId=KIX3
+
 ### June 2, 2024 
 - Dear Amazonians, this morning I wrote a comment to this article on A to Z News (https://news.a2z.com):
   - *6月7日開催のJapan Culture Festに参加して,ファイナリストを応援しよう! | Join the Japan Culture Fest on June 7 and cheer on our finalists!*
