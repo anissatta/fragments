@@ -5,6 +5,15 @@ Some excerpts from my website
 > 
 > -- a HRBP at my site 
 
+### June 8, 2024 
+- Dear Amazonians, this morning I wrote two comments to this article on A to Z News (https://news.a2z.com):
+  - *Captain Picard, an email storm, dancing boxes: All-Amazon Meeting archive dive*
+  - https://news.a2z.com/contents/38347565
+- As you see my comments are like these:
+  - I’d like to remind you that, this article was seen a few days ago on A to Z News. Please just scroll down the comment section; You shall see some comments that were made a day ago & get that its ‘Published 7 hours ago’ or something like isn’t correct. / この記事のコメント欄を下の方にスクロールすると記事の投稿日時より古い、1日前のコメントが出てきます。私が本記事に「いいね」したのは1日以上前のことです。(つまり投稿日時が後で変更されたということです) @hirosuk Hirosuke (大介) Miyajima https://fclm-portal.amazon.com/employee/activityDetails/ppa?employeeId=hirosuk&warehouseId=KIX3
+  - PS: ちなみに現在アマゾンジャパン所属のL1アソシエイトの情報はPhoneToolでは検索出来ないようになっています。詳細は下記に書いてあります。Hirosuke (大介) Miyajima, a L1 associate at KIX3
+https://w.amazon.com/bin/view/Users/hirosuk/
+
 ### June 5, 2024 
 - Dear Amazonians, this morning I wrote a comment to this article on A to Z News (https://news.a2z.com):
   - *What is OP1? Here's what it's for and why it matters.*
