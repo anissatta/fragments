@@ -5,6 +5,16 @@ Some excerpts from my website
 > 
 > -- a HRBP at my site 
 
+### June 9, 2024 
+- Dear Amazonians, this morning I wrote three comments to this article on A to Z News (https://news.a2z.com):
+  - *Japan Culture Fest は明日開催!参加してAmazonカルチャーを深く知ろう | The Japan Culture Fest is tomorrow! Join us and deepen your knowledge about Amazon's culture*
+  - https://news.a2z.com/contents/38305412
+- As you see my comments are like these:
+  - 検定にちなんで雑学を披露致します。
+その1. このコメント欄に @hirosuk のように「@+ログインID」を書くとそのユーザーのプロフィールへのリンクが現れます。 @hirosuk をクリックすると表示されるページはこのコメントの横にある私の顔写真をクリックすると表示されるページとURLが同一ですから,このコメントの作成者である私のログインIDがhirosukであることが確認できます。
+  - その2. 別所に書いたようにアマゾンジャパンに属するL1アソシエイトをPhoneToolにて検索することは不可能ですが,下記のようにログインIDを含むURLにアクセスするとFCLMを含む代替の選択肢が提案されます。 https://phonetool.amazon.com/users/hirosuk そこでFCLMにてこのログインIDを検索するとこれが「KIX3のHirosuke Miyajima」であることが分かります。 https://fclm-portal.amazon.com/employee/activityDetails/ppa?employeeId=hirosuk&warehouseId=KIX3
+  - その3. 下段にコメントを書かれている方のように長いミドルネームを登録することでコメント横の苗字を非表示にすることが出来ます。但しA to Z Newsの仕様上苗字の変更は出来ませんので(下記スクリーンショットを参照)この方の顔写真をクリックするとこの方の苗字が「Suzuki」であることが分かります。 https://drive.corp.amazon.com/documents/hirosuk@/atoz/jun09.PNG 下記アドレスにあるOWAの左上「メールとユーザーの検索」欄に「Hirosuke」と入力することによっても私の情報がご覧になれます。こんな問題は出題されないでしょうが。 https://ballard.amazon.com/owa/
+
 ### June 8, 2024 
 - Dear Amazonians, this morning I wrote two comments to this article on A to Z News (https://news.a2z.com):
   - *Captain Picard, an email storm, dancing boxes: All-Amazon Meeting archive dive*
