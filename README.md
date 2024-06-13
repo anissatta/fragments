@@ -5,6 +5,13 @@ Some excerpts from my website
 > 
 > -- a HRBP at my site 
 
+### June 14, 2024 
+- Dear Amazonians, this morning I wrote a comment to this article on A to Z News (https://news.a2z.com):
+  - *4 of our VPs share their best leadership tips and career lessons*
+  - https://news.a2z.com/contents/38379139
+- As you see my comment is like this:
+  - You may noticed that this has a comment that is slightly older than the article itself. Well it’s about 5 hours older. Hirosuke (大介) Miyajima, an associate at KIX3 PS: My alias is @hirosuk and you can confirm that this comment was made by me by comparing @hirosuk with what you’ll get by clicking my face shown on the left. 4랑해요. / コメント欄に記事そのものより数時間古いコメントがあります。つまり投稿時刻が後から変更されたということです。
+
 ### June 9, 2024 
 - Dear Amazonians, this morning I wrote three comments to this article on A to Z News (https://news.a2z.com):
   - *Japan Culture Fest は明日開催!参加してAmazonカルチャーを深く知ろう | The Japan Culture Fest is tomorrow! Join us and deepen your knowledge about Amazon's culture*
