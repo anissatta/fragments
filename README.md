@@ -5,6 +5,13 @@ Some excerpts from my website
 > 
 > -- a HRBP at my site 
 
+### June 15, 2024 
+- Dear Amazonians, this morning I wrote a comment to this article on A to Z News (https://news.a2z.com):
+  - *What we can learn from CTO Dr. Werner Vogels' simple approach to AI*
+  - https://news.a2z.com/contents/38398012
+- As you see my comment is like this:
+  - I see a comment, which is older than the article that holds it, asking something so now I ask you “Why do you keep manipulating publication date of articles? Why don’t you use these AI tools if you cannot manage to write yourself?” Anyway, you can confirm that this is mine by comparing @hirosuk with what you’ll get by clicking my photo. And, @hirosuk is for Hirosuke Miyajima, an associate at KIX3: https://fclm-portal.amazon.com/employee/activityDetails/ppa?employeeId=hirosuk&warehouseId=KIX3
+
 ### June 14, 2024 
 - Dear Amazonians, this morning I wrote a comment to this article on A to Z News (https://news.a2z.com):
   - *4 of our VPs share their best leadership tips and career lessons*
