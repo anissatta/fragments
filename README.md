@@ -11,10 +11,10 @@ Some excerpts from my website
   - https://news.a2z.com/contents/38398012
 - As you see my comment is like this:
   - It seems that the comment which I posted yesterday was deleted so again I mention that this oddly has a comment about a day older than the article itself. @hirosuk Hirosuke (大介) Miyajima, an associate at KIX3
-- I also wrote to this one, thinking that Amazon may delete my again even this time:
+- I also wrote to this one, thinking that Amazon may delete mine again even this time:
   - *All-Amazon Global Meetingの日本向け配信は6月19日14時から | The APAC replay of the All-Amazon Global Meeting starts at 2 p.m. on June 19*
   - https://news.a2z.com/contents/38358685
-- What wrote here is as follows: 
+- What I wrote here is as follows: 
   - 後日Broadcastでの配信はありますでしょうか。先日のJapan Culture Festの映像は視聴し、コメントを書かせて頂きました。 @hirosuk KIX3 宮島大介 https://broadcast.amazon.com/videos/1164523
 
 ### June 15, 2024 
