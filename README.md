@@ -5,6 +5,13 @@ Some excerpts from my website
 > 
 > -- a HRBP at my site 
 
+### June 21, 2024 
+- Dear Amazonians, this morning I wrote a comment to this article on A to Z News (https://news.a2z.com):
+  - *Anthropic's most powerful AI model, Claude 3.5 Sonnet, is now on Amazon Bedrock*
+  - https://news.a2z.com/contents/38437788
+- As you see my comment is like this:
+  - I’m not familiar with this so I believe that Amazon Bedrock is something like a ‘platform’ as the name may suggest, and Claude is a product that runs on it, but is this correct? I’m very interested in one of its applications done by Swindon Borough Council. Thanks, an associate at KIX3 
+
 ### June 16, 2024 
 - Dear Amazonians, this morning I wrote a comment to this article on A to Z News (https://news.a2z.com) AGAIN:
   - *What we can learn from CTO Dr. Werner Vogels' simple approach to AI*
