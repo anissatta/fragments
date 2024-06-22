@@ -5,6 +5,13 @@ Some excerpts from my website
 > 
 > -- a HRBP at my site 
 
+### June 22, 2024 
+- Dear Amazonians, this morning I wrote a comment to this article on A to Z News (https://news.a2z.com):
+  - *Short on time? See these highlights from the June 2024 All-Amazon Global Meeting*
+  - https://news.a2z.com/contents/38440262
+- As you see my comment is like this:
+  - I will watch a version with a Japanese dubbing which is available on Broadcast now. I even wrote a comment on following page referring back to this article: https://broadcast.amazon.com/videos/1175575 an associate at KIX3 
+
 ### June 21, 2024 
 - Dear Amazonians, this morning I wrote a comment to this article on A to Z News (https://news.a2z.com):
   - *Anthropic's most powerful AI model, Claude 3.5 Sonnet, is now on Amazon Bedrock*
