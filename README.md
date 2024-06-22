@@ -5,6 +5,20 @@ Some excerpts from my website
 > 
 > -- a HRBP at my site 
 
+### June 23, 2024 
+- Dear Amazonians, this morning I wrote a comment to this article on A to Z News (https://news.a2z.com):
+  - *We're removing plastic air pillows from our North America deliveries*
+  - https://news.a2z.com/contents/38429060
+- As you see my comment is like this:
+  - As an Inbound associate at KIX3, I wrap stacked materials such as containers with plastic wraps everyday just to carry them safely but I have always thought that, if we can use some reusable wrapping tools instead of these plastic wraps, that are soon trashed as a transfer ends, a tremendously large amount of wastes shall be reduced. 감사 (Thanks), an associate at KIX3
+- 下記の記事にもコメントを書きました。
+コメント内容: 
+拝読いたしました。KIX3 宮島
+
+*Japan Culture Festのハイライト映像をご覧ください | Watch the highlights of the Japan Culture Fest!* 
+
+https://news.a2z.com/contents/38430227
+
 ### June 22, 2024 
 - Dear Amazonians, this morning I wrote a comment to this article on A to Z News (https://news.a2z.com):
   - *Short on time? See these highlights from the June 2024 All-Amazon Global Meeting*
