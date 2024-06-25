@@ -5,6 +5,13 @@ Some excerpts from my website
 > 
 > -- a HRBP at my site 
 
+### June 26, 2024 
+- Dear Amazonians, this morning I wrote a comment to this article on A to Z News (https://news.a2z.com):
+  - *Megan Thee Stallion announces dates for our 10th Prime Day in new commercial*
+  - https://news.a2z.com/contents/38454748
+- As you see my comment is like this:
+  - I do not know who Megan Thee Stallion is, but I was glad to hear from her that the date is about a week after the days I plan to visit South Korea. As soon as I be back to Japan, I can work much harder than usual thanks to the power of Korea! 💪 Thanks, an associate at KIX3 
+
 ### June 23, 2024 
 - Dear Amazonians, this morning I wrote a comment to this article on A to Z News (https://news.a2z.com):
   - *We're removing plastic air pillows from our North America deliveries*
