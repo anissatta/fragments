@@ -5,6 +5,13 @@ Some excerpts from my website
 > 
 > -- a HRBP at my site 
 
+### June 27, 2024 
+- Dear Amazonians, this morning I wrote a comment to this article on A to Z News (https://news.a2z.com):
+  - *AWS CEO Matt Garman: Prioritize speed, be scrappy, and listen to our customers*
+  - https://news.a2z.com/contents/38468663
+- As you see my comment is like this:
+  - I think I read an article explaining one-way & two-way door decisions on A to Z News (which was then called ‘Inside Amazon News’) a several months ago but I cannot recall the title. By the way, I heard that South Korea has its AWS branch at Gangnam-gu of Seoul. So there should be a chance that some people in AWS Korea see my comment. If so, and if you are one of friends of my beloved one, please let him/her know this. 감사 (Thanks), an associate at KIX3 
+
 ### June 26, 2024 
 - Dear Amazonians, this morning I wrote a comment to this article on A to Z News (https://news.a2z.com):
   - *Megan Thee Stallion announces dates for our 10th Prime Day in new commercial*
