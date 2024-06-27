@@ -5,6 +5,13 @@ Some excerpts from my website
 > 
 > -- a HRBP at my site 
 
+### June 28, 2024 
+- Dear Amazonians, this morning I wrote a comment to this article on A to Z News (https://news.a2z.com):
+  - *Download your Leadership Principle wallpaper for July*
+  - https://news.a2z.com/contents/38462207
+- As you see my comment is like this:
+  - I liked this dolphin wallpaper & agree that it’s an appropriate animal for the Leadership Principle you chose. BTW an elephant is sometimes used to describe something in Buddhist countries. My fav quote is “Do it tactfully” so if you wanna see who I am really, click @hirosuk and photo shown on the left & compare them. I’m told by HR not to write any privacy information of mine here but I can hardly believe that it’s my private information as it is nearly public. 감사 (Thanks), an associate at KIX3 
+
 ### June 27, 2024 
 - Dear Amazonians, this morning I wrote a comment to this article on A to Z News (https://news.a2z.com):
   - *AWS CEO Matt Garman: Prioritize speed, be scrappy, and listen to our customers*
