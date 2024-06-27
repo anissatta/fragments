@@ -11,6 +11,13 @@ Some excerpts from my website
   - https://news.a2z.com/contents/38462207
 - As you see my comment is like this:
   - I liked this dolphin wallpaper & agree that it’s an appropriate animal for the Leadership Principle you chose. BTW an elephant is sometimes used to describe something in Buddhist countries. My fav quote is “Do it tactfully” so if you wanna see who I am really, click @hirosuk and photo shown on the left & compare them. I’m told by HR not to write any privacy information of mine here but I can hardly believe that it’s my private information as it is nearly public. 감사 (Thanks), an associate at KIX3 
+- 下記の記事にもコメントを書きました。
+
+コメント内容: 拝読致しました。KIX3 宮島
+
+*ジャスパーさんが番組に寄せられた質問に答えます | Jasper answers your questions in the latest podcast episode* 
+
+https://news.a2z.com/contents/38472792
 
 ### June 27, 2024 
 - Dear Amazonians, this morning I wrote a comment to this article on A to Z News (https://news.a2z.com):
