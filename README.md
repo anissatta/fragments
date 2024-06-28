@@ -5,6 +5,13 @@ Some excerpts from my website
 > 
 > -- a HRBP at my site 
 
+### June 29, 2024 
+- Dear Amazonians, this morning I wrote a comment to this article on A to Z News (https://news.a2z.com):
+  - *3 career-building tips on using Leadership Principles from SVP Beth Galetti*
+  - https://news.a2z.com/contents/38465019
+- As you see my comment is like this:
+  - As well as to me, this is a unique place to work & I really love it. Honestly speaking, just to solve my personal, yet so-important-to-all-of-us problem I sometimes had to do some job which may not ‘line up with my assignment’. For example, you state you published this 9 hours ago but I clearly remember that, I’d seen it a few days ago. I’m just a Tier-1 who works at a fulfillment center in Japan but as it may affect my personal life, I must keep fixing things like this. Thanks, @hirosuk at KIX3 
+
 ### June 28, 2024 
 - **PS:** hirosukというユーザによる初期の書込みをご覧になるには社内用PCにて下記にアクセスし「hirosuk」を探してみて下さい。(書込みは数個あります。あと時刻表記がUTCであり日本時間でないことに注意) 
   - https://w.amazon.com/bin/view/Associate2Tech/#Comments
