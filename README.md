@@ -6,6 +6,8 @@ Some excerpts from my website
 > -- a HRBP at my site 
 
 ### June 28, 2024 
+- **PS:** hirosukというユーザによる初期の書込みをご覧になるには社内用PCにて下記にアクセスし「hirosuk」を探してみて下さい。(書込みは数個あります。あと時刻表記がUTCであり日本時間でないことに注意) 
+  - https://w.amazon.com/bin/view/Associate2Tech/#Comments
 - Dear Amazonians, this morning I wrote a comment to this article on A to Z News (https://news.a2z.com):
   - *Download your Leadership Principle wallpaper for July*
   - https://news.a2z.com/contents/38462207
