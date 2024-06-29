@@ -5,6 +5,13 @@ Some excerpts from my website
 > 
 > -- a HRBP at my site 
 
+### June 30, 2024 
+- Dear Amazonians, this morning I wrote a comment to this article on A to Z News (https://news.a2z.com) AGAIN:
+  - *3 career-building tips on using Leadership Principles from SVP Beth Galetti*
+  - https://news.a2z.com/contents/38465019
+- As you see my comment is like this:
+  - I admit that what I wrote here yesterday may looked insane to most of you so I’ll try to make an explanation. Following are the articles that are confirmed to be having comments that are older than them. Observing these I’ve concluded that a publication date for an article is editable & not always accurate. Hope it’ll work. Thanks, @hirosuk at KIX3 https://news.a2z.com/contents/38125681 https://news.a2z.com/contents/38226287 https://news.a2z.com/contents/38017899
+
 > *社内ニュース関連で起きていることは説明が難しいので譬え話をしますね。各ニュース記事をお菓子のパッケージだと考えてみて下さい。*
 > *この工場では毎日のようにお菓子を製造していますが製造年月日が識別出来るようにパッケージに日付を刻印しています。また各消費者はめいめいが気に入ったお菓子にハートマークのシールを貼る慣わしになっています。*
 > *ここで重要なのは **「お菓子自体には製造日の記載があるが、ハートシールには貼った日が書かれていない」** ということです。ただし誰が貼ったのかは分かるようになっています。*
