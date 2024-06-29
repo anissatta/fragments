@@ -6,6 +6,8 @@ Some excerpts from my website
 > -- a HRBP at my site 
 
 ### June 30, 2024 
+- **PS:** hirosukというユーザの職名をご覧になるには社内PCにて下記にアクセス後、左上「メールとユーザの検索」欄に「hirosuke」と入力して下さい。検索結果の右側にあるアイコンをクリックするとそれが表示されます。なおNFTCはNon-Fixed Term Contractの略であり無期契約社員を指します。
+  - https://ballard.amazon.com
 - Dear Amazonians, this morning I wrote a comment to this article on A to Z News (https://news.a2z.com) AGAIN:
   - *3 career-building tips on using Leadership Principles from SVP Beth Galetti*
   - https://news.a2z.com/contents/38465019
