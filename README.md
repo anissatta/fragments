@@ -5,6 +5,13 @@ Some excerpts from my website
 > 
 > -- a HRBP at my site 
 
+### July 3, 2024 
+- Dear Amazonians, this morning I wrote a comment to this article on A to Z News (https://news.a2z.com):
+  - *What our Prime VP is looking forward to this Prime Day*
+  - https://news.a2z.com/contents/38481144
+- As you see my comment is like this:
+  - I felt it’s so heart-warming that our Prime VP is going to buy diapers on this big day. By the way, last night I read that some young people in Korea started spending less online and carrying a wallet filled with cash, thinking that this new habit may prevent them from unnecessary spending. But I think if there were Prime in South Korea, even they could not resist trying this opportunity with which they can buy everyday necessities at a quite reasonable price. Thanks, @hirosuk at KIX3 
+
 ### June 30, 2024 
 - **PS:** hirosukというユーザの職名をご覧になるには社内PCにて下記にアクセス後、左上「メールとユーザの検索」欄に「hirosuke」と入力して下さい。検索結果の右側にあるアイコンをクリックするとそれが表示されます。なおNFTCはNon-Fixed Term Contractの略であり無期契約社員を指します。
   - https://ballard.amazon.com
