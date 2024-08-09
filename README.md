@@ -1,6 +1,8 @@
 # fragments
 Some excerpts from my website
 
+### NOTE: I quit Amazon on August 8, 2024. 
+
 > **NFTC** stands for **N**on **F**ixed **T**erm **C**ontract.  
 > 
 > -- a HRBP at my site 
